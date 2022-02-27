@@ -1,0 +1,14 @@
+.button-pink {
+  background-color: #E04DB0;
+  padding: 10px 13px;
+  border-radius: 8px;
+  color: white;
+  opacity: 0.8;
+  font-family: "roboto";
+  font-size: 18px;
+}
+
+.button-pink:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
